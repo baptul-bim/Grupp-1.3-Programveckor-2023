@@ -26,7 +26,7 @@ MonoBehaviour:
     height: 637.3334
 >>>>>>> parent of a755b8b (y)
   m_ShowMode: 4
-  m_Title: 
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -53,9 +53,10 @@ MonoBehaviour:
 <<<<<<< HEAD
     width: 1206
     height: 572.6667
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 300, y: 200}
+  m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 48
 =======
     width: 1280
@@ -65,6 +66,9 @@ MonoBehaviour:
   vertical: 0
   controlID: 44
 >>>>>>> parent of a755b8b (y)
+=======
+  controlID: 56
+>>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -273,9 +277,10 @@ MonoBehaviour:
 <<<<<<< HEAD
     width: 921.3333
     height: 572.6667
-  m_MinSize: {x: 403, y: 492}
-  m_MaxSize: {x: 10001, y: 14042}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 49
 =======
     width: 978
@@ -285,6 +290,9 @@ MonoBehaviour:
   vertical: 1
   controlID: 45
 >>>>>>> parent of a755b8b (y)
+=======
+  controlID: 16
+>>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -307,9 +315,10 @@ MonoBehaviour:
 <<<<<<< HEAD
     width: 921.3333
     height: 339.33334
-  m_MinSize: {x: 403, y: 221}
-  m_MaxSize: {x: 8003, y: 4021}
+  m_MinSize: {x: 200, y: 100}
+  m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 50
 =======
     width: 978
@@ -319,6 +328,9 @@ MonoBehaviour:
   vertical: 0
   controlID: 46
 >>>>>>> parent of a755b8b (y)
+=======
+  controlID: 17
+>>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -404,20 +416,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\louie.warhammarstor\Desktop\Unity Projects\Orangun
-    Run
+  m_LastProjectPath: C:\Users\louie.warhammarstor\Documents\GitHub\Grupp-1.3-Programveckor-2023
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_SelectedIDs: 9c630000
     m_LastClickedID: 25500
@@ -427,6 +439,11 @@ MonoBehaviour:
     m_LastClickedID: 37750
     m_ExpandedIDs: 00000000309200005293000000ca9a3bffffff7f
 >>>>>>> parent of a755b8b (y)
+=======
+    m_SelectedIDs: d05f0000
+    m_LastClickedID: 24528
+    m_ExpandedIDs: 00000000be5f000000ca9a3bffffff7f
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -454,7 +471,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000be5f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -498,7 +515,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -548,7 +565,7 @@ MonoBehaviour:
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
   m_PreviewResizer:
-    m_CachedPref: 160
+    m_CachedPref: -160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
@@ -599,12 +616,16 @@ MonoBehaviour:
 <<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< Updated upstream
       m_ExpandedIDs: 1efbffff
 =======
       m_SelectedIDs: d4c1ffff90920000
       m_LastClickedID: 37520
       m_ExpandedIDs: 14c2ffffcec2ffff08c3ffff32c5ffff
 >>>>>>> parent of a755b8b (y)
+=======
+      m_ExpandedIDs: 2afbffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -620,7 +641,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -875,9 +896,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 3.5830965, y: 0.5606728, z: 0.05463384}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 3.5830965, y: 0.5606728, z: 0.05463384}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -908,7 +929,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -928,9 +949,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 4.5367193
     speed: 2
-    m_Value: 10
+    m_Value: 4.5367193
   m_Ortho:
     m_Target: 1
     speed: 2
