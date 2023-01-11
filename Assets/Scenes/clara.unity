@@ -306,8 +306,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 82}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 0.000011444, y: 88.0653}
+  m_SizeDelta: {x: 282.4881, y: 62.1306}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &594286234
 MonoBehaviour:
@@ -329,9 +329,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Name
-
-'
+  m_text: Oranguntan
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 6f8402694b7297045b94397970b274d2, type: 2}
   m_sharedMaterial: {fileID: 7024316261144268125, guid: 6f8402694b7297045b94397970b274d2, type: 2}
