@@ -26,9 +26,9 @@ public class PlayerMovement : MonoBehaviour
             transform.position += Vector3.left * moveSpeed * Time.deltaTime;
         }
 
-        if (Input.GetKeyDown(KeyCode.Space) == true)
+        if (Input.GetKeyDown(KeyCode.Space)
         {
-            transform.position += Vector3.up * jumpStrength * Time.deltaTime;
+           
         }
        
     }
