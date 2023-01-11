@@ -64,10 +64,14 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 44
 >>>>>>> parent of a755b8b (y)
 =======
   controlID: 56
+>>>>>>> Stashed changes
+=======
+  controlID: 23
 >>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
@@ -288,10 +292,14 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 45
 >>>>>>> parent of a755b8b (y)
 =======
   controlID: 16
+>>>>>>> Stashed changes
+=======
+  controlID: 28
 >>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
@@ -326,10 +334,14 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 46
 >>>>>>> parent of a755b8b (y)
 =======
   controlID: 17
+>>>>>>> Stashed changes
+=======
+  controlID: 29
 >>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
@@ -424,11 +436,16 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
+<<<<<<< Updated upstream
   m_LastProjectPath: C:\Users\louie.warhammarstor\Documents\GitHub\Grupp-1.3-Programveckor-2023
+=======
+  m_LastProjectPath: C:\Users\maja.sjobergclaesso\Documents\GitHub\Grupp-1.3-Programveckor-2023
+>>>>>>> Stashed changes
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
     m_SelectedIDs: 9c630000
@@ -443,6 +460,11 @@ MonoBehaviour:
     m_SelectedIDs: d05f0000
     m_LastClickedID: 24528
     m_ExpandedIDs: 00000000be5f000000ca9a3bffffff7f
+>>>>>>> Stashed changes
+=======
+    m_SelectedIDs: 48ab0000
+    m_LastClickedID: 43848
+    m_ExpandedIDs: 000000003092000000ca9a3b
 >>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -498,7 +520,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -613,6 +635,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
@@ -625,6 +648,11 @@ MonoBehaviour:
 >>>>>>> parent of a755b8b (y)
 =======
       m_ExpandedIDs: 2afbffff
+>>>>>>> Stashed changes
+=======
+      m_SelectedIDs: 48ab0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 368fffffbc8ffffff48fffff4690ffff8890ffffc890ffff4291ffffa891ffff2892ffffb493ffff6abbffffa0bbffff3ec1ffff26c2ffff2ec3ffff84c3ffffe8c3ffff32c5ffffd2a60000
 >>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -896,9 +924,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< Updated upstream
     m_Target: {x: 3.5830965, y: 0.5606728, z: 0.05463384}
     speed: 2
     m_Value: {x: 3.5830965, y: 0.5606728, z: 0.05463384}
+=======
+    m_Target: {x: 0.61224043, y: -3.0956235, z: 0.025532307}
+    speed: 2
+    m_Value: {x: 0.61224043, y: -3.0956235, z: 0.025532307}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -949,9 +983,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< Updated upstream
     m_Target: 4.5367193
     speed: 2
     m_Value: 4.5367193
+=======
+    m_Target: 6.1069446
+    speed: 2
+    m_Value: 6.1069446
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 1
     speed: 2
