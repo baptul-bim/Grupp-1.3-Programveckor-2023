@@ -21,7 +21,7 @@ public class AxeEnemyMovement : MonoBehaviour
     {
 
 
-        timer = timer + Time.deltaTime;
+        
         
         transform.position += transform.right * enemySpeed * Time.deltaTime;
 
